@@ -1,8 +1,6 @@
 # Python Spam bot
 
-`
-# Coded by A-Muktar
-`
+## Coded by A-Muktar
 
 - *Feel free to fork or clone, but please follow me and give the work a star. Thanks*
 
