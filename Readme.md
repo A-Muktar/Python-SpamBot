@@ -1,14 +1,18 @@
 # Python Spam bot
 
-```ruby
+`
 # Coded by A-Muktar
-```
+`
+
+- *Feel free to fork or clone, but please follow me and give the work a star. Thanks*
 
 ## How to Use'.'
 
 - install pyautogui using the command below.
 
-`pip install pyautogui`
+```ruby
+# pip install pyautogui
+```
 
 - After the installation you can run the program, but make sure you edit the **text file and type the words you want**.
 
