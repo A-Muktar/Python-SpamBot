@@ -8,7 +8,7 @@
 
 - install pyautogui using the command below.
 
-```ruby
+```md
 # pip install pyautogui
 ```
 
